@@ -1,0 +1,2 @@
+all:
+	gcc main.c func.c autotest.c -0 program
